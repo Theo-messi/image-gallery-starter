@@ -56,7 +56,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
             <p className="max-w-[40ch] text-white/75 sm:max-w-[32ch]"></p>
             <a
               className="pointer z-10 mt-6 rounded-lg border border-white bg-white px-3 py-2 text-sm font-semibold text-black transition hover:bg-white/10 hover:text-white md:mt-4"
-              href="https://github.com/vanhiupun"
+              href="https://github.com/Theo-messi"
               target="_blank"
               rel="noreferrer"
             >
@@ -93,7 +93,7 @@ const Home: NextPage = ({ images }: { images: ImageProps[] }) => {
       <footer className="p-6 text-center text-white/80 sm:p-12">
         Copyright © 2019 - 2023{" "}
         <a
-          href="https://github.com/vanhiupun"
+          href="https://github.com/Theo-messi"
           target="_blank"
           className="font-semibold hover:text-white"
           rel="noreferrer"
